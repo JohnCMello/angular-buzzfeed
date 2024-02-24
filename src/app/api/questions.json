@@ -1,0 +1,132 @@
+{
+  "perguntas": [
+    {
+      "categoria": "super_heróis",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a sua abordagem para resolver problemas?",
+          "respostas": {
+            "Ágil": "Eu confio na minha agilidade e astúcia para resolver problemas.",
+            "Forte": "Eu confio na minha força e resistência para resolver problemas.",
+            "Tecnológico": "Eu confio na minha inteligência e tecnologia para resolver problemas.",
+            "Veloz": "Eu confio na minha velocidade e agressividade para resolver problemas."
+          }
+        },
+        {
+          "pergunta": "Como você prefere passar seu tempo livre?",
+          "respostas": {
+            "Aventura": "Balançando pela cidade e explorando novos lugares.",
+            "Heroísmo": "Ajudando as pessoas da minha comunidade.",
+            "Inovação": "Trabalhando em projetos científicos ou tecnológicos.",
+            "Treinamento": "Treinando e aprimorando minhas habilidades."
+          }
+        },
+        {
+          "pergunta": "Qual é a sua atitude em relação à responsabilidade?",
+          "respostas": {
+            "Altruísta": "Eu sinto que é minha responsabilidade usar meus poderes para ajudar os outros.",
+            "Protetor": "Eu sinto que é minha responsabilidade proteger os mais fracos.",
+            "Determinado": "Eu sinto que é minha responsabilidade usar minha inteligência para o bem da humanidade.",
+            "Inquieto": "Eu sinto que é minha responsabilidade combater o mal onde quer que ele apareça."
+          }
+        }
+      ]
+    },
+    {
+      "categoria": "comida",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a sua preferência de sabor?",
+          "respostas": {
+            "Fresco": "Adoro sabores frescos e variados.",
+            "Intenso": "Prefiro sabores intensos e defumados.",
+            "Picante": "Gosto de sabores picantes e exóticos.",
+            "Suave": "Sinto-me atraído por sabores suaves e reconfortantes."
+          }
+        },
+        {
+          "pergunta": "Como você prefere sua comida preparada?",
+          "respostas": {
+            "Pizza": "Adoro a simplicidade de algo assado no forno.",
+            "Churrasco": "Não há nada melhor do que algo feito na brasa.",
+            "Pratos Asiáticos": "Curto a complexidade de um prato asiático.",
+            "Sopas e Ensopados": "Gosto da tradição de uma boa sopa ou ensopado."
+          }
+        },
+        {
+          "pergunta": "O que você gosta de acompanhar sua comida?",
+          "respostas": {
+            "Cerveja ou Vinho": "Gosto de uma boa cerveja ou vinho.",
+            "Refrigerantes e Sucos": "Prefiro refrigerantes e sucos.",
+            "Chás e Bebidas Geladas": "Gosto de chás e bebidas geladas.",
+            "Café ou Chá Quente": "Não dispenso um bom café ou chá quente."
+          }
+        }
+      ]
+    },
+    {
+      "categoria": "estilo_musical",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o seu ritmo favorito?",
+          "respostas": {
+            "Contagiante": "Adoro batidas pop contagiante.",
+            "Intenso": "Gosto de riffs de guitarra e solos intensos.",
+            "Dançante": "Curto batidas eletrônicas e dançantes.",
+            "Suave": "Sinto-me atraído por letras poéticas e melodias suaves."
+          }
+        },
+        {
+          "pergunta": "O que você prefere ouvir em um show ao vivo?",
+          "respostas": {
+            "Performático": "Quero ver artistas performáticos e energéticos.",
+            "Animado": "Gosto de sentir a vibe da multidão em músicas animadas.",
+            "Técnico": "Prefiro apreciar a habilidade técnica dos músicos.",
+            "Emocional": "Gosto de me perder nas letras e nas histórias das músicas."
+          }
+        },
+        {
+          "pergunta": "Qual é a sua atitude em relação à música?",
+          "respostas": {
+            "Expressivo": "A música é minha paixão e minha forma de expressão.",
+            "Inspirador": "A música é uma força poderosa que me inspira e me motiva.",
+            "Conectado": "A música é uma forma de arte que conecta as pessoas.",
+            "Emocional": "A música é uma jornada emocional que me leva a lugares inesperados."
+          }
+        }
+      ]
+    }
+  ],
+  "resultados": {
+    "superherois": {
+      "Homem Aranha": ["Ágil", "Inteligente", "Responsável"],
+      "Superman": ["Forte", "Protetor", "Altruísta"],
+      "Batman": ["Tecnológico", "Determinado", "Vingativo"],
+      "Flash": ["Veloz", "Agressivo", "Inquieto"]
+    },
+    "comida": {
+      "Pizza": ["Fresca", "Versátil", "Acompanha bem com cerveja ou vinho"],
+      "Churrasco": [
+        "Intenso",
+        "Defumado",
+        "Acompanha bem com refrigerantes e sucos"
+      ],
+      "Pratos Asiáticos": [
+        "Picante",
+        "Exótico",
+        "Acompanha bem com chás e bebidas geladas"
+      ],
+      "Sopas e Ensopados": [
+        "Suave",
+        "Reconfortante",
+        "Acompanha bem com café ou chá quente"
+      ]
+    },
+    "estilo_musical": {
+      "Pop": ["Contagiante", "Performático", "Expressivo"],
+      "Rock": ["Intenso", "Animado", "Técnico"],
+      "Eletrônica": ["Dançante", "Conectado", "Energético"],
+      "Indie/Folk": ["Suave", "Poético", "Emocional"]
+    }
+  }
+}
