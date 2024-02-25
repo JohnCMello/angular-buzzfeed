@@ -1,0 +1,74 @@
+@import "index";
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quiz {
+  margin: 4rem 2rem;
+  max-width: 60rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+
+  &__header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+
+    &__title {
+      font-family: "Kanit";
+      font-size: 4rem;
+      color: $gray-darkest;
+    }
+    &__subtitle {
+      font-family: "Martel Sans";
+      font-size: 2rem;
+    }
+  }
+
+  &__questions {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    &__questionsText {
+      font-size: 3rem;
+      font-family: "Kanit";
+    }
+
+    &__options {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 2rem;
+      @include screen-size("tablet") {
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+      &__option {
+        width: 100%;
+        max-width: 28rem;
+        background-color: transparent;
+
+        &__imageContainer {
+          &__image {
+            width: 100%;
+            object-fit: cover;
+          }
+        }
+
+        &__text {
+          font-family: "Martel Sans";
+          font-size: 2rem;
+        }
+      }
+    }
+  }
+}
