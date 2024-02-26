@@ -12,13 +12,15 @@ export interface Answer {
   alt: string;
 }
 
+export interface Content {
+  id: number;
+  text: string;
+  questions: Question[];
+}
+
 export interface QuizData {
   title: string;
   subtitle: string;
-  content: {
-    id: number;
-    text: string;
-    questions: Question[];
-  }[];
+  content: Content[];
   answers: Answer[];
 }

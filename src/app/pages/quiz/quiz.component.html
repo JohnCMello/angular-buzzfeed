@@ -1,31 +1,63 @@
 <div class="container">
   <section class="quiz">
     <header class="quiz__header">
+      @if(getGameIsFinished){
+      <div class="quiz__header__backButtonContainer">
+        <a routerLink="" class="quiz__header__backButtonContainer__link"
+          ><span class="quiz__header__backButtonContainer__link__text"
+            >Restart the quiz</span
+          ></a
+        >
+      </div>
+      }
       <h1 class="quiz__header__title">{{ title }}</h1>
+      @if(!getGameIsFinished){
       <span class="quiz__header__subtitle">{{ subtitle }}</span>
+      }
     </header>
 
+    @if(getGameIsFinished){
+    <article class="quiz__answer">
+      <h3 class="quiz__answer__title">You are...</h3>
+
+      <figure class="quiz__answer__imageContainer">
+        <img
+          src="{{ finalAnswer?.image }}"
+          alt="{{ finalAnswer?.text }}"
+          class="quiz__answer__imageContainer__image"
+        />
+      </figure>
+      <span class="quiz__answer__text">
+        {{ finalAnswer?.text }}
+      </span>
+    </article>
+    } @else{
     <article class="quiz__questions">
-      @for(question of getContent; track trackById){
       <h2 class="quiz__questions__questionsText">
-        {{ question.text }}
+        {{ selectedQuestion?.text }}
       </h2>
       <div class="quiz__questions__options">
-        <button class="quiz__questions__options__option">
+        @for(option of getSelectedQuestion; track trackById){
+
+        <button
+          class="quiz__questions__options__option"
+          (click)="selectOption(option.text)"
+        >
           <figure class="quiz__questions__options__option__imageContainer">
             <img
-              src="https://s2-g1.glbimg.com/U7TAp42IcAp-o-2tTFI5HBJbUvA=/0x0:1024x1024/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/t/P/kBI0LWRUemtdGTdIi9iQ/mussumdivulgacao.jpg"
-              alt="Mussum"
+              src="{{ option.image }}"
+              alt="{{ option.text }}"
               class="quiz__questions__options__option__imageContainer__image"
             />
           </figure>
-          <span class="quiz__questions__options__option__text"
-            >Mussum Ipsum</span
-          >
+          <span class="quiz__questions__options__option__text">{{
+            option.text
+          }}</span>
         </button>
+        }
       </div>
-
-      }
     </article>
+
+    }
   </section>
 </div>

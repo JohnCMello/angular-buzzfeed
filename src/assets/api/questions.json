@@ -121,19 +121,19 @@
     {
       "combination": ["New York", "Pizza", "Modern"],
       "text": "Goya",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queso_Goya.jpg",
+      "image": "https://unsplash.com/pt-br/fotografias/pao-assado-KaK2jp8ie8s",
       "alt": "Goya"
     },
     {
       "combination": ["New York", "Pizza", "Mountains"],
       "text": "Red Hawk",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg",
+      "image": "https://images.squarespace-cdn.com/content/v1/54ae97ece4b0bf3f1982f1ce/1431120126605-9QF1605D5CN0LOCTW4A5/RED+HAWK",
       "alt": "Red Hawk"
     },
     {
       "combination": ["New York", "Pizza", "House"],
       "text": "Pepper Jack",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pepperjack_Cheese.jpg",
+      "image": "https://fromagination.com/wp-content/uploads/2021/06/Goat-Milk-Pepper-Jack.c.650x464.72res.jpg",
       "alt": "Pepper Jack"
     },
     {
@@ -145,37 +145,37 @@
     {
       "combination": ["New York", "Pasta", "Modern"],
       "text": "Muenster",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Block_of_Muenster_cheese.jpg",
+      "image": "https://pearlvalleycheese.com/cdn/shop/products/muenster-cheese_800x.jpg?v=1676473673",
       "alt": "Muenster"
     },
     {
       "combination": ["New York", "Pasta", "Mountains"],
       "text": "Humboldt Fog",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheese_30_bg_051906.jpg",
+      "image": "https://www.kroger.com/product/images/large/front/0029647890000",
       "alt": "Humboldt Fog"
     },
     {
       "combination": ["New York", "Pasta", "House"],
       "text": "Brick",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Brickcheese.jpg",
+      "image": "https://fromagination.com/wp-content/uploads/2020/07/Aged-Brick.Widmers.650x464.72res.jpg",
       "alt": "Brick"
     },
     {
       "combination": ["New York", "Sandwich", "Traditional"],
       "text": "Oaxaca",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Quesillo_de_Oaxaca.png",
+      "image": "https://agirlworthsaving.net/wp-content/uploads/2021/02/oaxaca-cheese-on-a-cutting-board-720x720.jpg",
       "alt": "Oaxaca"
     },
     {
       "combination": ["New York", "Sandwich", "Modern"],
       "text": "Criollo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fromage_criollo._%2815228806466%29.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUvT8A5n7h7oC8cGhwdFM9eRZADZm4rhLsw6GvgcNW14k-7yffxAgZk1z7hcAZDUepw8g&usqp=CAU",
       "alt": "Criollo"
     },
     {
       "combination": ["New York", "Sandwich", "Mountains"],
       "text": "Asadero",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tlayuda_con_Quesillo%2C_Oaxaca.jpg",
+      "image": "https://theartofcheese.com/wp-content/uploads/2021/03/Asadero.jpg",
       "alt": "Asadero"
     },
     {
@@ -199,20 +199,20 @@
     {
       "combination": ["New York", "Hamburger", "Mountains"],
       "text": "Cuajada",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuajada.jpg",
+      "image": "https://media.istockphoto.com/id/1239444675/es/foto/manos-de-pastor-la-forma-del-queso.jpg?s=612x612&w=0&k=20&c=CdABVqr2RRd5BssIi9X1LdAvninS1gqjHm9IbgBBkA4=",
       "alt": "Cuajada"
     },
     {
       "combination": ["New York", "Hamburger", "House"],
       "text": "Turrialba",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Queso_Turrialba.jpg",
+      "image": "https://www.nuevoplasencia.es/wp-content/uploads/2023/06/1687991668_31_17-mejores-sustitutos-del-queso-Oaxaca.webp.webp",
       "alt": "Turrialba"
     },
 
     {
       "combination": ["Austin", "Pizza", "Traditional"],
       "text": "Palmito",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Palmito_cheese.jpg",
+      "image": "https://jacofresh.com/wp-content/uploads/2022/07/jacofresh-Queso-Palmito-300-grs-LA-QUINA-1.jpg",
       "alt": "Palmito"
     },
     {
@@ -236,7 +236,7 @@
     {
       "combination": ["Austin", "Pasta", "Traditional"],
       "text": "Nabulsi",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%D8%AC%D8%A8%D9%86%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRwFlRAjQ2m_bwA5syK7YOsTBUU5GzABiYQ&usqp=CAU",
       "alt": "Nabulsi"
     },
     {
@@ -248,7 +248,7 @@
     {
       "combination": ["Austin", "Pasta", "House"],
       "text": "Labneh",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Labneh01.jpg",
+      "image": "https://assets.bonappetit.com/photos/57ae3bc653e63daf11a4e3ee/master/pass/greek-yogurt-labneh.jpg",
       "alt": "Labneh"
     },
     {
@@ -260,7 +260,7 @@
     {
       "combination": ["Austin", "Sandwich", "Modern"],
       "text": "Rumi",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg/800px-Flickr_-_Tour_d%27Afrique_-_ArabicCheese.jpg",
       "alt": "Rumi"
     },
     {
@@ -314,13 +314,13 @@
     {
       "combination": ["Portland", "Pasta", "Traditional"],
       "text": "Circassian",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%8B%D1%80.jpg",
+      "image": "https://stamboulbazaar.com/wp-content/uploads/nc/catalog/Product-2/turkish-cheese/Turkish-Natural-Smoked-Circassian-Cheese-Cerkes-1.jpg",
       "alt": "Circassian"
     },
     {
       "combination": ["Portland", "Pasta", "Modern"],
       "text": "Cașcaval",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Penteleu.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPgEh1XY6VX70m48WzkujhdZRLLKv-hNz4ARLTlP0y4aTNPHnf3LBMMXUwC_X2rzUUP_M&usqp=CAU",
       "alt": "Cașcaval"
     },
     {
@@ -338,7 +338,7 @@
     {
       "combination": ["Portland", "Sandwich", "Traditional"],
       "text": "Norvegia",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Norvegia_Vellagret.JPG",
+      "image": "https://www.scanspecialties.com/cdn/shop/products/Norvegia_800x.jpg?v=1575453131",
       "alt": "Norvegia"
     },
     {
@@ -350,7 +350,7 @@
     {
       "combination": ["Portland", "Sandwich", "House"],
       "text": "Gamalost",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gamalost-NorwegianOldCheese.jpg",
+      "image": "https://analizagonzales.files.wordpress.com/2016/04/20160428_103849.jpg?w=685g",
       "alt": "Gamalost"
     },
     {
@@ -362,7 +362,7 @@
     {
       "combination": ["Portland", "Hamburger", "Modern"],
       "text": "Pannónia",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emmental_015.jpg",
+      "image": "https://www.chefspencil.com/wp-content/uploads/Pannonia-sajt-960x640.jpg.webp",
       "alt": "Pannónia"
     },
     {
@@ -374,7 +374,7 @@
     {
       "combination": ["Portland", "Hamburger", "House"],
       "text": "Trappista",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TrappistenKaeseOffen_1.jpg",
+      "image": "https://cheeselover.ca/wp-content/uploads/2020/07/lifestyle_oka_classique_0.jpg",
       "alt": "Trappista"
     },
     {
@@ -386,19 +386,19 @@
     {
       "combination": ["New Orleans", "Pizza", "House"],
       "text": "Metsovone",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%CE%9C%CE%B5%CF%84%CF%83%CE%BF%CE%B2%CF%8C%CE%BD%CE%B5_6304.jpg",
+      "image": "https://www.greekflavours.com/cdn/shop/products/metsovone3.jpg?v=1649254351&width=1445",
       "alt": "Metsovone"
     },
     {
       "combination": ["New Orleans", "Pasta", "Traditional"],
       "text": "Manouri",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Manouri.jpg",
+      "image": "https://minosimports.com/cdn-cgi/image/quality%3D85/assets/images/manouricheese.jpg",
       "alt": "Manouri"
     },
     {
       "combination": ["New Orleans", "Pasta", "Modern"],
       "text": "Aura",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aura_juusto.jpg",
+      "image": "https://img.ilcdn.fi/45-dlGJ-5rK7fEsWb3WGHGx5-a4=/full-fit-in/920x0/img-s3.ilcdn.fi/1e35b37bb5519354bad0e77cd7aa699102956575a972826fff62572d3c470216.jpg",
       "alt": "Aura"
     },
     {
@@ -410,7 +410,7 @@
     {
       "combination": ["New Orleans", "Pasta", "House"],
       "text": "Danish Blue",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Danish_Blue_cheese.jpg",
+      "image": "https://dorothy-lane-market.s3.us-east-2.amazonaws.com/shop/items/danish-blue-1_662x450.JPEG",
       "alt": "Danish Blue"
     },
     {
@@ -422,7 +422,7 @@
     {
       "combination": ["New Orleans", "Sandwich", "Modern"],
       "text": "Staazer",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Staazer_Heublumenk%C3%A4se_SB_01_WikiCheese_Lokal_K.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Staazer_Heublumenk%C3%A4se_05_WikiCheese_Lokal_K.jpg/1280px-Staazer_Heublumenk%C3%A4se_05_WikiCheese_Lokal_K.jpg",
       "alt": "Staazer"
     },
     {
